@@ -83,6 +83,7 @@ export function FooterSection() {
           <div className="flex justify-center gap-8 mt-12">
             <a
               href="https://github.com/harshtrivedi4480-cyber"
+
               target="_blank"
               rel="noreferrer"
               className="
