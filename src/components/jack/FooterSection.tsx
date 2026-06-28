@@ -82,7 +82,7 @@ export function FooterSection() {
         <FadeIn delay={0.4} y={20}>
           <div className="flex justify-center gap-8 mt-12">
             <a
-              href="https://github.com/harshtrivedi"
+              href="https://github.com/harshtrivedi4480-cyber"
               target="_blank"
               rel="noreferrer"
               className="
